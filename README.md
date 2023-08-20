@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 📑 I’m currently studying Computer Science @ UniPi<br>👨🏻‍🎓 I have a diploma in C.S. & Telcommunications<br>👯 I’m looking to collaborate on a mobile app<br>🌱 I’m currently learning CS and Craftsmanship<br>💬 Ask me about a scientific fact<br>✒️ "Rage against the dying of the light." cit.
 
 
