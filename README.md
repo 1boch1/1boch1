@@ -1,5 +1,5 @@
 # About Me:
-📑 I’m currently studying Computer Science @ UniPi<br>👨🏻‍🎓 I have a diploma in C.S. & Telcommunications<br>👯 I’m looking to collaborate on a mobile app<br>🌱 I’m currently learning CS and Craftsmanship<br>💬 Ask me about a scientific fact<br>✒️ "Rage against the dying of the light." cit.
+📑 I’m currently studying Computer Science @ UniPi<br>👨🏻‍🎓 I have a diploma in C.S. & Telcommunications<br>🌱 I’m currently learning craftsmanship<br>💬 I love talking about science<br>✒️ "Rage against the dying of the light." cit.
 
 
 ## 🌐 Socials:
@@ -12,20 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1boch1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1boch1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1boch1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=1boch1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/1boch1?country.x=IT&locale.x=it_IT) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
