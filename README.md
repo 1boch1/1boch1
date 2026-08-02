@@ -1,5 +1,5 @@
 # About Me:
-📑 I’m currently studying Computer Science @ UniPi<br>👨🏻‍🎓 I have a diploma in C.S. & Telcommunications<br>🌱 I’m currently learning craftsmanship<br>💬 I love talking about science<br>✒️ "Rage against the dying of the light." cit.
+🌱 I’m currently learning craftsmanship<br>💬 I love talking about science<br>✒️ "Rage against the dying of the light." cit.
 
 
 ## 🌐 Socials:
